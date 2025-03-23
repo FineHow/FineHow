@@ -1,10 +1,9 @@
-# 你好，很高兴认识你！👋
-
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=pdyS3Mf3teeY&format=png&color=000000" alt="前端工程师" />
 </p>
 <h2 align="center">我是 FINEHOW </h2>
 <p align="center">
+  # 你好，很高兴认识你！👋
   👷 前端开发 | 🔌 嵌入式  | python | js ts c | 
 </p>
 ---
