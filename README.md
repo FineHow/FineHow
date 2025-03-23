@@ -18,19 +18,6 @@
 
 ---
 
-### 🌐 社交媒体 & 联系方式
-
-<p align="center">
-  <a href="http://116.62.220.150/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Website" />
-  </a>
-  <a href="mailto:1434162587@qq.com">
-    <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email" />
-  </a>
-</p>
-
----
-
 ### 🛠 我的技能
 
 #### 前端开发 🔥
