@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=pdyS3Mf3teeY&format=png&color=000000" alt="" />
+  <img src="https://img.icons8.com/?size=100&id=u6S98q8qieUu&format=png&color=000000" alt="" />
 </p>
 <h2 align="center">我是 FINE </h2>
 <p align="center">
@@ -15,7 +15,3 @@
 ### 💬 最后
 
 > **"咕噜咕噜咕噜咕噜。"**
-
-<p align="center">
-  <img src="https://img.icons8.com/?size=100&id=u6S98q8qieUu&format=png&color=000000" alt="Sparkles" />
-</p>
